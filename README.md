@@ -1,3 +1,4 @@
+# agriculture-management-system
 This is a comprehensive Agriculture Management System designed to streamline and digitize various aspects of farm management. The system allows farmers, vendors, and administrators to interact via a centralized platform for managing crops, tracking inventory, monitoring weather, managing transactions, and much more.
 
 🚀 Features
@@ -75,4 +76,4 @@ Pranam Gowda
 📃 License
 This project is open-source and available under the MIT License.
 
-# agriculture-management-system
+
